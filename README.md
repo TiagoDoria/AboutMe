@@ -14,20 +14,20 @@
 
 ### EXPERIÊNCIA PROFISSIONAL
 
-Cargo:  Estagiário em Administração de Banco de Dados
-Empresa: Secretaria Municipal da Fazenda
-Período:  Julho 2017 – Abril 2018
-Atividades:  Criação, manutenção de bancos de dados geográfico utilizando SGBD PostgreSQL e extensão PostGIS para 
+<strong>Cargo:</strong>  Estagiário em Administração de Banco de Dados
+<strong>Empresa:</strong> Secretaria Municipal da Fazenda
+<strong>Período:</strong>  Julho 2017 – Abril 2018
+<strong>Atividades:</strong>  Criação, manutenção de bancos de dados geográfico utilizando SGBD PostgreSQL e extensão PostGIS para 
 
-Cargo: Desenvolvedor Full Stack
-Empresa: Tag Tech
-Período: Abril 2018 - Atual
-Atividades: Desenvolvimento de sistemas utilizando linguagem de programação JavaScript, com auxílio dos frameworks VueJS e NodeJS e banco de dados MongoDB.
+<strong>Cargo:<strong> Desenvolvedor Full Stack
+<strong>Empresa:</strong> Tag Tech
+<strong>Período:</strong> Abril 2018 - Atual
+<strong>Atividades:</strong> Desenvolvimento de sistemas utilizando linguagem de programação JavaScript, com auxílio dos frameworks VueJS e NodeJS e banco de dados MongoDB.
 
-Cargo: Bolsista em Iniciação Científica
-Empresa: UFBA
-Período: Agosto 2015 – Agosto 2016
-Atividades: Desenvolvimento e manutenção de uma plataforma utilizando linguagem de programação Java com auxílio do framework JSF e banco de dados PostgreSQL.
+<strong>Cargo:</strong> Bolsista em Iniciação Científica
+<strong>Empresa:</strong> UFBA
+<strong>Período:</strong> Agosto 2015 – Agosto 2016
+<strong>Atividades:</strong> Desenvolvimento e manutenção de uma plataforma utilizando linguagem de programação Java com auxílio do framework JSF e banco de dados PostgreSQL.
 
 
 
