@@ -14,9 +14,9 @@
 
 ### EXPERIÊNCIA PROFISSIONAL
 
-<strong>Cargo:</strong>  Estagiário em Administração de Banco de Dados
-<strong>Empresa:</strong> Secretaria Municipal da Fazenda
-<strong>Período:</strong>  Julho 2017 – Abril 2018
+<strong>Cargo:</strong>  Estagiário em Administração de Banco de Dados<br/>
+<strong>Empresa:</strong> Secretaria Municipal da Fazenda<br/>
+<strong>Período:</strong>  Julho 2017 – Abril 2018<br/>
 <strong>Atividades:</strong>  Criação, manutenção de bancos de dados geográfico utilizando SGBD PostgreSQL e extensão PostGIS para 
 
 <strong>Cargo:</strong> Desenvolvedor Full Stack <br/>
