@@ -1,18 +1,18 @@
-TIAGO DÓRIA PAIVA DA CONCEIÇÃO
-Solteiro, 24 anos
-Parque Recreio dos bandeirantes quadra 10 lote 3A
-Telefone: (71) 99189-0688 / E-mail: tiagodoriap@gmail.com
+ ###  TIAGO DÓRIA PAIVA DA CONCEIÇÃO <br/>
+<p> Solteiro, 24 anos </p>
+<p> Parque Recreio dos bandeirantes quadra 10 lote 3A</p> 
+<p> Telefone: (71) 99189-0688 / E-mail: tiagodoriap@gmail.com</p> 
 
-OBJETIVO
+### OBJETIVO
 
-- Atuar na área de desenvolvimento de sistemas ou banco de dados 
+<p> - Atuar na área de desenvolvimento de sistemas ou banco de dados </p> 
 
 
-FORMAÇÃO ACADÊMICA
+### FORMAÇÃO ACADÊMICA
 
 - Graduando em Ciência da Computação – Universidade Federal da Bahia – 10º semestre. Previsão de conclusão em 2019.1
 
-EXPERIÊNCIA PROFISSIONAL
+### EXPERIÊNCIA PROFISSIONAL
 
 Cargo:  Estagiário em Administração de Banco de Dados
 Empresa: Secretaria Municipal da Fazenda
@@ -31,7 +31,7 @@ Atividades: Desenvolvimento e manutenção de uma plataforma utilizando linguage
 
 
 
-CONHECIMENTOS ESPECÍFICOS
+### CONHECIMENTOS ESPECÍFICOS
 
 - Linguagens de programação: C/C++, PHP, JavaScript, Java
 - HTML/CSS
@@ -39,7 +39,7 @@ CONHECIMENTOS ESPECÍFICOS
 - Framework: JavaScript (VueJS, NodeJS, Angular), PHP (Laravel, CodeIgniter), Java (JSF)
 - Sistema operacional Linux
 
-INFORMAÇÕES ADICIONAIS
+### INFORMAÇÕES ADICIONAIS
 
 - Inglês básico (Profici- UFBA, conclusão em 2015)
 - Noosfero (UFBA, conclusão em 2015)
