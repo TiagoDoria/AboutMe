@@ -19,16 +19,10 @@
 <strong>Período:</strong>  Julho 2017 – Abril 2018<br/>
 <strong>Atividades:</strong>  Criação, manutenção de bancos de dados geográfico utilizando SGBD PostgreSQL e extensão PostGIS para 
 
-<strong>Cargo:</strong> Desenvolvedor Full Stack <br/>
-<strong>Empresa:</strong> Tag Tech <br/>
-<strong>Período:</strong> Abril 2018 - Atual<br/>
-<strong>Atividades:</strong> Desenvolvimento de sistemas utilizando linguagem de programação JavaScript, com auxílio dos frameworks VueJS e NodeJS e banco de dados MongoDB.
-
 <strong>Cargo:</strong> Bolsista em Iniciação Científica<br/>
 <strong>Empresa:</strong> UFBA<br/>
 <strong>Período:</strong> Agosto 2015 – Agosto 2016<br/>
 <strong>Atividades:</strong> Desenvolvimento e manutenção de uma plataforma utilizando linguagem de programação Java com auxílio do framework JSF e banco de dados PostgreSQL.
-
 
 
 ### CONHECIMENTOS ESPECÍFICOS
