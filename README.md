@@ -17,7 +17,7 @@
 <strong>Cargo:</strong>  Estagiário em Administração de Banco de Dados<br/>
 <strong>Empresa:</strong> Secretaria Municipal da Fazenda<br/>
 <strong>Período:</strong>  Julho 2017 – Abril 2018<br/>
-<strong>Atividades:</strong>  Criação, manutenção de bancos de dados geográfico utilizando SGBD PostgreSQL e extensão PostGIS para 
+<strong>Atividades:</strong>  Criação, manutenção de bancos de dados geográfico utilizando SGBD PostgreSQL e extensão PostGIS. 
 
 <strong>Cargo:</strong> Bolsista em Iniciação Científica<br/>
 <strong>Empresa:</strong> UFBA<br/>
