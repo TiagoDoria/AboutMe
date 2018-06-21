@@ -24,6 +24,12 @@
 <strong>Período:</strong> Agosto 2015 – Agosto 2016<br/>
 <strong>Atividades:</strong> Desenvolvimento e manutenção de uma plataforma utilizando linguagem de programação Java com auxílio do framework JSF e banco de dados PostgreSQL.
 
+<strong>Cargo:</strong> Estagiário em desenvolvimento web<br/>
+<strong>Empresa:</strong> Tag Tech<br/>
+<strong>Período:</strong>  Março 2018 – Atual <br/>
+<strong>Atividades:</strong>  Desenvolver websites utilizando as tecnologias VueJS para front-end e NodeJS para back-end. Criação de testes. 
+
+
 
 ### CONHECIMENTOS ESPECÍFICOS
 
