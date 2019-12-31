@@ -1,7 +1,7 @@
  ###  TIAGO DÓRIA PAIVA DA CONCEIÇÃO <br/>
-<p> Solteiro, 24 anos </p>
+<p> Solteiro, 26 anos </p>
 <p> Parque Recreio dos bandeirantes quadra 10 lote 3A</p> 
-<p> Telefone: (71) 99189-0688 / E-mail: tiagodoriap@gmail.com</p> 
+<p> Telefone: (71) 99325-0138 / E-mail: tiagodoriap@gmail.com</p> 
 
 ### OBJETIVO
 
@@ -10,7 +10,7 @@
 
 ### FORMAÇÃO ACADÊMICA
 
-- Graduando em Ciência da Computação – Universidade Federal da Bahia – 10º semestre. Previsão de conclusão em 2019.1
+- Graduado em Ciência da Computação – Universidade Federal da Bahia (2012 - 2019)
 
 ### EXPERIÊNCIA PROFISSIONAL
 
@@ -33,10 +33,10 @@
 
 ### CONHECIMENTOS ESPECÍFICOS
 
-- Linguagens de programação: C/C++, PHP, JavaScript, Java
+- Linguagens de programação: C/C++, PHP, JavaScript, Java, C#
 - HTML/CSS
 - Banco de dados: MySQL, PostgreSQL, MongoDB
-- Framework: JavaScript (VueJS, NodeJS, Angular), PHP (Laravel, CodeIgniter), Java (JSF)
+- Framework: JavaScript (VueJS, NodeJS, Angular), PHP (Laravel, CodeIgniter), Java (JSF), .Net Framework
 - Sistema operacional Linux
 
 ### INFORMAÇÕES ADICIONAIS
